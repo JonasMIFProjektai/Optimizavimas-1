@@ -10,3 +10,5 @@ Klasės pagrindinis tikslas- būti paveldėta algoritmui specifinių klasių.
 IntervaloDalijimasPusiau, AuksinioPjuvio, Niutono- klasės atitinkamai pagal savo pavadinimą atlieka nusakytą algoritmą, paveldi Function klasę, skaičiuoja iteracijas, funkcijų kvietimus, minimumą funkcijos. SVARBU- Niutono metodo išvestinės randamos analitiškai.
 
 Projekto tikslas- pademonstruoti 3 algoritmų veikimą ir gauti informacijos pilnaverčiui palygnimui.
+
+Sėkmingui kodo paleidimui reikia visas klases turėti viename aplankale ir paleisti Main klasę.
